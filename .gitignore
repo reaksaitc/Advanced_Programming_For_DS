@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+sample_data.csv
+TP02_cleaned_output.csv
